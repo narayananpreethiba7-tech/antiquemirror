@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Contact Us</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+<h1>ANTIQUE MIRROR GALLERY</h1>
+
+<nav>
+<a href="index.html">HOME</a>
+<a href="product.html">PRODUCT DETAILS</a>
+<a href="contact.html">CONTACT US</a>
+</nav>
+</header>
+
+<div class="container">
+
+<h2>Contact Us</h2>
+
+<form>
+
+<label>Name</label>
+<input type="text">
+
+<label>Email</label>
+<input type="email">
+
+<label>Message</label>
+<textarea rows="5"></textarea>
+
+<button type="submit">Submit</button>
+
+</form>
+
+<p>THANKS FOR ORDER FROM US</p>
+
+</div>
+
+<footer>
+Copyright Reserved | Facebook | Instagram
+</footer>
+
+</body>
+</html>
